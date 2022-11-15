@@ -14,6 +14,6 @@ bugfix][dhall-toml-bugfix]. It's probably easier to use YAML :)
 
 ## Rules file
 
-[Sample config file](./sample-config.dhall)
+[Example rules config file](./example-config.dhall)
 
 [Honeycomb Refinery]: https://github.com/honeycombio/refinery

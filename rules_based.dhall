@@ -174,6 +174,7 @@ let RulesBasedSamplerConfig/render
 in  { FieldType
     , Operator
     , ShouldSample
+    , RuleScope
     , RulesBasedSamplerRule
     , RulesBasedSamplerConfig
     , RulesBasedSamplerConfig/render
